@@ -1,0 +1,29 @@
+D:\Работы\кр прога\Labir\Labir\bin\Debug\Labir.exe.config
+D:\Работы\кр прога\Labir\Labir\bin\Debug\Labir.exe
+D:\Работы\кр прога\Labir\Labir\bin\Debug\Labir.pdb
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.csproj.AssemblyReference.cache
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.Form1.resources
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.Properties.Resources.resources
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.csproj.GenerateResource.cache
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.csproj.CoreCompileInputs.cache
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.exe
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.pdb
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.Form3.resources
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.Form2.resources
+D:\Labir\Labir\bin\Debug\Labir.exe.config
+D:\Labir\Labir\bin\Debug\Labir.exe
+D:\Labir\Labir\bin\Debug\Labir.pdb
+D:\Labir\Labir\obj\Debug\Labir.csproj.AssemblyReference.cache
+D:\Labir\Labir\obj\Debug\Labir.Form1.resources
+D:\Labir\Labir\obj\Debug\Labir.Form3.resources
+D:\Labir\Labir\obj\Debug\Labir.Form2.resources
+D:\Labir\Labir\obj\Debug\Labir.Properties.Resources.resources
+D:\Labir\Labir\obj\Debug\Labir.csproj.GenerateResource.cache
+D:\Labir\Labir\obj\Debug\Labir.csproj.CoreCompileInputs.cache
+D:\Labir\Labir\obj\Debug\Labir.exe
+D:\Labir\Labir\obj\Debug\Labir.pdb
+D:\Labir\Labir\obj\Debug\Labir.Form4.resources
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.Form4.resources
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.Form5.resources
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.Form6.resources
+D:\Работы\кр прога\Labir\Labir\obj\Debug\Labir.Form7.resources
