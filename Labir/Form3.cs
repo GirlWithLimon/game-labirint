@@ -79,13 +79,25 @@ namespace Labir
                 p=1;
             }
         }
-
+        int num=1;
+        private void hod(char nap) {
+        if (nap == 'r')
+            {
+                if (num == 1) { bird.Image = Properties.Resources.D2; num = 2; }
+                else if (num == 2) { bird.Image = Properties.Resources._1672267655_kalix_club_p_utka_piksel_art_instagram_1; num = 1; }
+            }
+            if (nap == 'l')
+            {
+                if (num == 1) { bird.Image = Properties.Resources.A1; num = 2; }
+               else if (num == 2) { bird.Image = Properties.Resources.A2; num = 1; }
+            }
+        }
         private void Down(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.W || e.KeyCode == Keys.Up) { Peres(-10,'h'); }
             if (e.KeyCode == Keys.S || e.KeyCode == Keys.Down) { Peres(10, 'h'); }
-            if (e.KeyCode == Keys.A || e.KeyCode == Keys.Left) { Peres(-10, 'l'); }
-            if (e.KeyCode == Keys.D || e.KeyCode == Keys.Right) { Peres(10, 'l'); }
+            if (e.KeyCode == Keys.A || e.KeyCode == Keys.Left) { Peres(-10, 'l');hod('l'); }
+            if (e.KeyCode == Keys.D || e.KeyCode == Keys.Right) { Peres(10, 'l');hod('r'); }
             Key();
             if (bird.Bounds.IntersectsWith(worota.Bounds)&&p!=0||e.KeyCode==Keys.V) {
                 Bank.Sost = "1";
